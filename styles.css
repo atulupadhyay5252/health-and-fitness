@@ -641,7 +641,15 @@ nav {
     flex-direction: column;
     gap: 0;
   }
-
+  .review__member {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    width: 500px;
+    padding-left: 20px;
+  
+   
+  }
   .review__footer {
     flex-direction: column;
   }
